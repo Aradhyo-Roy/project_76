@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://wallpapertag.com/wallpaper/full/d/4/2/113815-best-family-background-1920x1080-for-retina.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#family_members_name{
+    font-size: larger;
+}
+#family_member_image{
+    height: 350px;
+    width: 300px;
+}
